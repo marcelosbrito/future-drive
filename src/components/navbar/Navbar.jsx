@@ -6,7 +6,7 @@ import logo from '../../assets/logo.svg'
 const Menu = () => (
   <>
     <p><a href="#home">Home</a></p>
-    <p><a href="#whatFutureDrive">What is FD?</a></p>
+    <p><a href="#wfd">What is FD?</a></p>
     <p><a href="#possibility">Open AI</a></p>
     <p><a href="#features">Case Studies</a></p>
     <p><a href="#blog">Library</a></p>
