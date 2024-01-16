@@ -2,7 +2,7 @@
 
 Welcome! This respostitory contains Responsive Modern UI/UX Website in React JS.
 
-![Prototype](https://github.com/marcelosbrito/portfolio/blob/main/src/assets/reward-store.png?raw=true)
+![Prototype](https://github.com/marcelosbrito/future-drive/blob/master/src/assets/FutureDrive-home.png)
 
 ## 📋 Requirements
 
