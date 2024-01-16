@@ -38,7 +38,7 @@ const Footer = () => {
           </div>
         </div>
         <div div className='fd__footer-copyright'>
-            <p>© 2021 GPT-3. All rights reserved.</p>
+            <p>© 2024 FutureDrive. All rights reserved.</p>
           </div>  
       
     </div>
