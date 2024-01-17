@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/future-drive/static/css/main.32689e59.css",
+    "main.js": "/future-drive/static/js/main.e552b644.js",
+    "static/media/ai.png": "/future-drive/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/future-drive/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/future-drive/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/future-drive/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/future-drive/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/future-drive/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/future-drive/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/logo.svg": "/future-drive/static/media/logo.c55ba9c2bd5af19a1f70ec626ee81435.svg",
+    "static/media/people.png": "/future-drive/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/future-drive/index.html",
+    "main.32689e59.css.map": "/future-drive/static/css/main.32689e59.css.map",
+    "main.e552b644.js.map": "/future-drive/static/js/main.e552b644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32689e59.css",
+    "static/js/main.e552b644.js"
+  ]
+}
