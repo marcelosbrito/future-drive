@@ -1,5 +1,7 @@
 # 🧠 About
 
+### [Live Site](https://marcelosbrito.github.io/future-drive/)
+
 Welcome! This respostitory contains Responsive Modern UI/UX Website in React JS.
 
 ![Prototype](https://github.com/marcelosbrito/future-drive/blob/master/src/assets/FutureDrive-home.png)
@@ -33,13 +35,7 @@ cd future-drive
 npm install
 ```
 
-4. Run Frontend
-
-```bash
-npm run dev
-```
-
-5. Run start
+4. Run start
 
 ```bash
 npm start
